@@ -1,0 +1,29 @@
+body {
+ text-align: center;
+ background-color: black;
+}
+input{
+background-color: transparent;
+border: 1px solid aqua;
+height: 10vh;
+width: 80%;
+color: white;
+font-size: 4vh;
+outline: none;
+border-radius: 20px;
+}
+#btn{
+border: 1px solid white;
+color: white;
+background-color: transparent;
+outline: none;
+border-radius: 20px;
+}
+a {
+ border: 1px solid white;
+ border-radius: 20px;
+ padding: 20px;
+ font-size: 4vh;
+ text-decoration: none;
+ color: white;
+}
